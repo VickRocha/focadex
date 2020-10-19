@@ -1,0 +1,147 @@
+.usuario{
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.sessao{
+    background-image: linear-gradient(#ff4d4d, #ff1a1a);
+    height: 240px;
+    margin: 0px 0px 100px 0px;
+}
+
+.gatinho{
+    width: min-content;
+    margin: 0 auto;
+}
+
+.gatinho img{
+    width: 200px;
+    height: 12rem;
+    width : 12rem;
+    border-radius: 50%;
+}
+
+.focadex img{
+    width: 200px;
+}
+
+.icones img{
+    width: 20px;
+    margin-right: 15px;
+}
+
+.imagens{
+    display: flex;
+    align-items: center;
+    padding: 10px 50px;
+    justify-content: space-between;
+}
+
+.texto{
+    text-align: center;
+    word-spacing: 30px;
+}
+
+.pokedex{
+    color: #ff1a1a;
+    font-weight: bold;
+}
+
+.pesquisa{
+    margin: 30px 0px 30px 150px ;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.ditto img{
+    width: 120px;
+    padding: 2px;
+}
+
+.bulbassauro img{
+    width: 102px;
+    padding: 2px;
+    margin: 0px 15px 0px 0px;
+}
+
+.bordas{
+    border: 1px solid #ff1a1a;
+    margin: 15px auto ;
+    width: 300px;
+    border-radius: 3px;
+}
+
+.pokemon1{
+    display: flex;
+    align-items: flex-start;
+    text-align: start;
+    padding: 15px 10px;
+    justify-content: space-between;
+}
+
+.pokemon2{
+    display: flex;
+    align-items: flex-start;
+    text-align: start;
+    padding: 8px 10px 2px;
+    justify-content: space-between;
+}
+
+.fonte{
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: start;
+    padding: 2px;
+}
+
+.normal{
+    background-color: grey;
+    width: 70px;
+    color: white;
+    border-radius: 7px;
+    text-align: center;
+}
+
+.grass{
+    background-color: #00b359;
+    width: 60px;
+    color: white;
+    border-radius: 7px;
+    text-align: center;
+    margin: 0px 0px 5px 0px;
+}
+
+.poison{
+    background-color: #a64dff;
+    width: 70px;
+    color: white;
+    border-radius: 7px;
+    text-align: center;
+    margin: 0px 1px 0px 12px;
+    height: 22px;
+}
+
+.espaco{
+    display: flex;
+}
+
+.numeracao{
+    color: white;
+    text-align: center;
+    background-color: #ff1a1a;
+    margin: 0px 19px;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 5px 11px;
+    border-radius: 50%;
+    
+}
+
+.numeracao2{
+    color: #ff1a1a;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    word-spacing: 15px;
+}
